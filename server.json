@@ -1,0 +1,17 @@
+{
+    "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+    "name": "io.github.silentdirectivellc-hub/silentdirective-mcp",
+    "title": "Silent Directive Tools",
+    "description": "Three practical tools, no key needed: check code for 2026 API shutdowns (OpenAI Assistants API, Google Content API, Relay.app), audit any small-business website (mobile, https, dead domain verdicts), and estimate what a secondhand item resells for from a photo URL.",
+    "repository": {
+        "url": "https://github.com/silentdirectivellc-hub/silentdirective-mcp",
+        "source": "github"
+    },
+    "version": "1.0.0",
+    "remotes": [
+        {
+            "type": "streamable-http",
+            "url": "https://sites.silentdirectivellc.com/mcp"
+        }
+    ]
+}
